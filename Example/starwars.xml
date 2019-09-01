@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<credits width="640" empty-height="24" text-rendering="antialiasgridfit">
+  <images>
+    <title file="" />
+    <footer file="" />
+  </images>
+  <fonts>
+    <font family="Bahnschrift" size="16" />
+    <font key="=" family="Noto Serif" size="20" style="Bold, Italic" color="#FFFF00" />
+    <font key="-" family="Tahoma" size="7" color="#888888" />
+  </fonts>
+</credits>
